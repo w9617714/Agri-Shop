@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgricultureEcommerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="agri_products_delivered_to_your_farm">Agri Products \n Delivered To Your Farm</string>
+    <string name="get_all_your_agriculture_supplies_from_the_comfort_of_your_own_home">Get all your agriculture \nSupplies from the \ncomfort of your own home</string>
+    <string name="we_will_send_you_the_forget_password_link_on_the_given_email">We will send you the forget password link on the given email</string>
+    <string name="sell_your_products_by_sitting_at_your_home">Sell your products by \n sitting at while  \nhome</string>
+</resources>

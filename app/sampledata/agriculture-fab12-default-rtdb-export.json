@@ -1,0 +1,275 @@
+{
+  
+  "products": [
+    {
+      "category": "Inputs",
+      "description": "Enhance your soil's fertility naturally with GreenHarvest's premium organic fertilizer. Specially formulated to provide essential nutrients, promoting healthier and more productive crops.",
+      "id": "1",
+      "img": "https://img.freepik.com/free-photo/green-measuring-scoop-dark-soil_23-2148181144.jpg?w=740&t=st=1700669887~exp=1700670487~hmac=dbf0cba26976ffb15d4d508e64ee838d5ec081032ae955dbf8e715b16b948d15",
+      "prices":1999,
+      "product_name": "Organic Fertilizer",
+      "what":"product"
+    },
+    {
+      "category": "Seeds",
+      "description": "Experience a bountiful harvest of juicy tomatoes with GreenHarvest's Hybrid Tomato Seeds. These high-yielding seeds are carefully selected to ensure robust plants and delicious fruits.",
+      "id": "2",
+      "img": "https://img.freepik.com/free-photo/top-view-bunches-tomatoes-with-bowl-black-pepper-white-background-horizontal_176474-5124.jpg?w=740&t=st=1700670057~exp=1700670657~hmac=faef7e1fcc8634b0d2677e0a6d8707de6af870fa94d0f13d9f789ce9c05dce48",
+      "prices":500,
+      "product_name": "Tomato Seeds (Hybrid)",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Equip yourself for successful gardening with GreenHarvest's durable Garden Tools Set. Crafted for efficiency and longevity, these tools make tending to your garden a breeze.",
+      "id": "3",
+      "img": "https://img.freepik.com/free-photo/tidy-gardening-elements_23-2147997158.jpg?w=740&t=st=1700670421~exp=1700671021~hmac=6fa55a4d99089c8d7fd7068f0858e12862f87f8f0d2911994284655c36902019",
+      "prices":1500,
+      "product_name": "Garden Tools Set",
+      "what":"product"
+    },
+    {
+      "category": "Inputs",
+      "description": "Keep pests at bay with GreenHarvest's Natural Pest Repellent. Formulated with eco-friendly ingredients, it protects your plants without harming the environment.",
+      "id": "4",
+      "img": "https://img.freepik.com/free-photo/close-up-spraying-plants-with-water-bottle_23-2148488479.jpg?w=740&t=st=1700670746~exp=1700671346~hmac=1fc37c3b095082adc3ceff9277ff26fc4d3f8005b773616d8ea37d98ae0344f4",
+      "prices":899,
+      "product_name": "Natural Pest Repellent",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Go green with GreenHarvest's Compost Bin. Turn your kitchen waste into nutrient-rich compost for your garden.",
+      "id": "5",
+      "img": "https://img.freepik.com/free-photo/assortment-compost-made-rotten-food_23-2149073786.jpg?w=740&t=st=1700670907~exp=1700671507~hmac=add5958d48ea88231bd2141f8c7fee88d81435bd1a0d1f36b74b2d541c9a85c6",
+      "prices":599,
+      "product_name": "Compost Bin",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Revolutionize your irrigation practices with AgroTech Solutions' Smart Irrigation System. Automated and responsive to soil moisture levels, this system ensures optimal water usage for your crops.",
+      "id": "6",
+      "img": "https://img.freepik.com/free-photo/closeup-selective-focus-shot-automatic-watering-system_181624-20614.jpg?size=626&ext=jpg&ga=GA1.1.874563551.1682945331&semt=ais",
+      "prices":15999,
+      "product_name": "Smart Irrigation System",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Elevate your crop management with AgroTech Solutions' Crop Monitoring Drone. Gain a bird's-eye view of your fields, enabling precise monitoring and timely interventions for better yields.",
+      "id": "7",
+      "img": "https://www.agrisource.org/medias/87edf711-18fc-48ee-bbd2-60699a4e1572.png",
+      "prices":9999,
+      "product_name": "Crop Monitoring Drone",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Achieve the perfect soil conditions for your crops with AgroTech Solutions' Soil pH Tester. Accurate and easy to use, this tool helps you maintain the ideal pH levels for optimal plant growth.",
+      "id": "8",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/9/345174565/UY/DW/AS/1383163/soil-ph-moisture-meter-with-long-probe-500x500.jpg",
+      "prices":2999,
+      "product_name": "Soil pH Tester",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Efficiently water your crops with AgroTech Solutions' Drip Irrigation Kit. Conserves water and promotes uniform watering for healthier plants.",
+      "id": "9",
+      "img": "https://housing.com/news/wp-content/uploads/2022/11/DRIP-IRRIGATION-FEATURE-compressed-686x400.jpg",
+      "prices":1999,
+      "product_name": "Drip Irrigation Kit",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Stay informed about weather conditions affecting your crops with AgroTech Solutions' Weather Station. Accurate data for better farm management.",
+      "id": "9",
+      "img": "https://www.environdata.com.au/images/Industries-Agriculture/Agriculture-Weather-Maestro-Weather-Station-Rain-Gauge.jpg",
+      "prices":7999,
+      "product_name": "Weather Station"
+    },
+    {
+      "category": "Inputs",
+      "description": "Indulge in the pure goodness of Nature's Bounty Farms' Organic Apple Cider. Made from handpicked, organically grown apples, this refreshing beverage is a delightful addition to your daily routine.",
+      "id": "10",
+      "img": "https://img.freepik.com/free-photo/fresh-apple-juice-close-up-shot_53876-65292.jpg?w=740&t=st=1700672018~exp=1700672618~hmac=0cd33666b365ee3ca81bd5ad1290acc4f8b537beda05f5d860403ad88ea71e6b",
+      "prices":999,
+      "product_name": "Organic Apple Cider",
+      "what":"product"
+    },
+    {
+      "category": "Seeds",
+      "description": "Cultivate a herb garden in your kitchen with Nature's Bounty Farms' Herb Seed Kit. Carefully curated seeds of culinary herbs ensure a fresh and aromatic supply for your culinary creations.",
+      "id": "11",
+      "img": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F2%2F008%2F026%2Fcommonly-cultivated-food-grade-pure-and-dried-herbs-celery-seed-950.jpg&w=384&q=75",
+      "prices":1699,
+      "product_name": "Herb Seed Kit",
+      "what":"product"
+    },
+    {
+      "category": "Inputs",
+      "description": "Nourish your plants with Nature's Bounty Farms' Premium Compost. This nutrient-rich compost enhances soil fertility, promoting vigorous plant growth and overall garden vitality.",
+      "id": "12",
+      "img": "https://img.freepik.com/free-photo/flat-lay-hands-holding-soil_23-2148224020.jpg?w=740&t=st=1700672412~exp=1700673012~hmac=f2da9a24572f2bbb55a0981b1a3fcb8f8ae85f980114a906f2d163dc681bb94e",
+      "prices":999,
+      "product_name": "Premium Compost",
+      "what":"product"
+    },
+    {
+      "category": "Seeds",
+      "description": "Grow your own orchard with Nature's Bounty Farms' Fruit Tree Saplings. High-quality saplings for delicious home-grown fruits.",
+      "id": "13",
+      "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*KCLdPWJ-30uQvZ0QJLtWyg.jpeg",
+      "prices":799,
+      "product_name": "Fruit Tree Saplings",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Attract pollinators to your garden with Nature's Bounty Farms' Bee Pollinator Kit. Essential for improved fruit and vegetable yields.",
+      "id": "14",
+      "img": "https://buzzyseeds.com/cdn/shop/products/80908_STB_bio_12pk_main_Silo_720x.png?v=1644292228",
+      "prices":699,
+      "product_name": "Bee Pollinator Kit",
+      "what":"product"
+    },
+    {
+      "category": "Seeds",
+      "description": "Achieve a bumper crop of corn with HarvestHub's High-Yield Corn Seeds. Perfect for farmers and home gardeners alike.",
+      "id": "15",
+      "img": "https://img.freepik.com/free-photo/background-dried-corn-seeds-top-view_140725-11780.jpg?w=740&t=st=1700672924~exp=1700673524~hmac=c54a82cb1fe68f3ce74e662f1557bbb71c2ffa69123e01d8cd410d5d4518fd05",
+      "prices":999,
+      "product_name": "High-Yield Corn Seeds",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Maximize efficiency in your fields with HarvestHub's Tractor Plow Attachment. Durable and designed for various soil types.",
+      "id": "16",
+      "img": "https://www.deere.com/assets/images/region-4/campaigns/ag-turf/frontier-implements/frontier-vegetable-garden-feature-callout/frontier_vegetable_garden_callout_r4e004103_small_fe7c5164b20712a919b1388e110de063fdb3a283.jpg",
+      "prices":5999,
+      "product_name": "Tractor Plow Attachment",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Streamline your planting process with HarvestHub's Automated Seed Planter. Accurate and time-saving for large-scale agriculture.",
+      "id": "17",
+      "img": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F393%2Feasy-to-use-uniform-seeds-high-speed-planting-automatic-potato-planter-658.jpg&w=384&q=75",
+      "prices": 8999,
+      "product_name": "Automated Seed Planter",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Extend your growing season with HarvestHub's Greenhouse Kit. Ideal for cultivating a variety of crops throughout the year.",
+      "id": "18",
+      "img": "https://img.freepik.com/free-photo/vegetable-plantation-greenhouse_181624-5.jpg?w=740&t=st=1700673459~exp=1700674059~hmac=ce5ed38835d1948c45d59e0ee921fe7df379a1f50cc4c91267c47d1b746fc413",
+      "prices": 6000,
+      "product_name": "Greenhouse Kit",
+      "what":"product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Optimize your harvesting operations with HarvestHub's GPS-guided Harvester. Precision harvesting for increased productivity.",
+      "id": "19",
+      "img": "https://static.farmtario.com/wp-content/uploads/2021/02/16122502/AIcombinenav_Russian_based_3-768x518.jpg",
+      "prices": 45000,
+      "product_name": "GPS-guided Harvester",
+      "what":"product"
+    },
+    {
+      "category": "Inputs",
+      "description": "Introducing our cutting-edge biopest control solution – a sustainable and eco-friendly alternative to traditional pesticides. Harnessing the power of nature, our biopest control utilizes beneficial organisms like predators, parasites, or pathogens to manage pest populations.",
+      "id": "20",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2022/10/SU/RK/NN/149490071/green-fly-sucking-pest-20ml-500x500.jpg",
+      "prices": 500,
+      "product_name": "Biopest Control Solution"
+     
+    },
+    {
+      "category": "Inputs",
+      "description": "Effectively manage pests with BioGrow Innovations' Biopest Control Solution. Made from natural ingredients, it provides a safe and eco-friendly solution for pest control.",
+      "id": "21",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2022/10/SU/RK/NN/149490071/green-fly-sucking-pest-20ml-500x500.jpg",
+      "prices": 399,
+      "product_name": "Biopest Control Solution",
+      "what":"product"
+    },
+    {
+      "category": "Inputs",
+      "description": "Boost your soil's fertility with BioGrow Innovations' Nutrient-rich Soil Enhancer. Enriched with essential nutrients, it promotes healthy plant growth and increased yields.",
+      "id": "22",
+      "img": "https://www.gardeningknowhow.com/wp-content/uploads/2017/06/soil-conditioner-400x267.jpg",
+      "prices": 599,
+      "product_name": "Nutrient-rich Soil Enhancer",
+      "what":"product"
+    },
+    {
+      "category": "Inputs",
+      "description": "Promote vigorous plant growth with BioGrow Innovations' Organic Plant Growth Stimulant. Formulated with natural growth-promoting compounds, it ensures robust and healthy plants.",
+      "id": "23",
+      "img": "https://5.imimg.com/data5/GW/HF/MY-13495698/bio-organic-fertilizer-granules-500x500.jpg",
+      "prices": 600,
+      "product_name": "Organic Plant Growth Stimulant",
+      "what":"product"
+    },
+    {
+      "category": "Inputs",
+      "description": "Provide essential nutrients to your plants with BioGrow Innovations' Biofertilizer Tablets. Convenient and easy-to-use for potted plants and garden beds.",
+      "id": "24",
+      "img": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F006%2F634%2Fg1aceto-gluconacetobacter-diazotrophicus-bio-fertilizer-capsules-393.jpg&w=384&q=75.",
+      "prices": 349,
+      "product_name": "Biofertilizer Tablets"
+     
+    } ,
+    {
+      "category": "Inputs",
+      "description": "Enhance your soil's fertility naturally with GreenHarvest's premium organic fertilizer. Specially formulated to provide essential nutrients, promoting healthier and more productive crops.",
+      "id": "1",
+      "img": "https://img.freepik.com/free-photo/green-measuring-scoop-dark-soil_23-2148181144.jpg?w=740&t=st=1700669887~exp=1700670487~hmac=dbf0cba26976ffb15d4d508e64ee838d5ec081032ae955dbf8e715b16b948d15",
+      "prices": 1299,
+      "product_name": "Organic Fertilizer",
+      "what":"Special product"
+    },
+    {
+      "category": "Seeds",
+      "description": "Experience a bountiful harvest of juicy tomatoes with GreenHarvest's Hybrid Tomato Seeds. These high-yielding seeds are carefully selected to ensure robust plants and delicious fruits.",
+      "id": "2",
+      "img": "https://img.freepik.com/free-photo/top-view-bunches-tomatoes-with-bowl-black-pepper-white-background-horizontal_176474-5124.jpg?w=740&t=st=1700670057~exp=1700670657~hmac=faef7e1fcc8634b0d2677e0a6d8707de6af870fa94d0f13d9f789ce9c05dce48",
+      "prices": 899,
+      "product_name": "Tomato Seeds (Hybrid)",
+      "what":"Special product"
+    },
+    {
+      "category": "Equipment",
+      "description": "Streamline your planting process with HarvestHub's Automated Seed Planter. Accurate and time-saving for large-scale agriculture.",
+      "id": "17",
+      "img": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F393%2Feasy-to-use-uniform-seeds-high-speed-planting-automatic-potato-planter-658.jpg&w=384&q=75",
+      "prices": 6999,
+      "product_name": "Automated Seed Planter",
+      "what":"Special product"
+    },
+    {
+      "category": "Inputs",
+      "description": "Provide essential nutrients to your plants with BioGrow Innovations' Biofertilizer Tablets. Convenient and easy-to-use for potted plants and garden beds.",
+      "id": "24",
+      "img": "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F006%2F634%2Fg1aceto-gluconacetobacter-diazotrophicus-bio-fertilizer-capsules-393.jpg&w=384&q=75.",
+      "prices": 149,
+      "product_name": "Biofertilizer Tablets",
+      "what":"Special product"
+    } 
+
+  ],
+  "users": {
+    "iZF2vZ9DJGXjnYB1JNiTwWbtAQJ3": {
+      "email": "anug@gmail.com",
+      "firstname": "anu",
+      "lastName": "gaddam",
+      "password": "1234556",
+      "pfp": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_nav"
+    app:startDestination="@id/fragment_intro">
+
+    <fragment
+        android:id="@+id/fragment_login"
+        android:name="com.example.agrishop.fragments.Fragment_Login.Fragment_login"
+        android:label="Fragment_login"
+        tools:layout="@layout/fragment_login_pge">
+        <action
+            android:id="@+id/action_fragment_login_to_fragment_register_page2"
+            app:destination="@id/fragment_register_page" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_register_page"
+        android:name="com.example.agrishop.Fragment_Login.Fragment_register_page"
+        android:label="Fragment_register_page"
+        tools:layout="@layout/fragment_register_page">
+        <action
+            android:id="@+id/action_fragment_register_page_to_fragment_login2"
+            app:destination="@id/fragment_login" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_intro"
+        android:name="com.example.agrishop.fragments.Fragment_Login.Fragment_intro"
+        android:label="fragment_register_page"
+        tools:layout="@layout/fragment_intro" >
+        <action
+            android:id="@+id/action_fragment_intro_to_fragment_login"
+            app:destination="@id/fragment_login" />
+        <action
+            android:id="@+id/action_fragment_intro_to_fragment_register_page"
+            app:destination="@id/fragment_register_page" />
+    </fragment>
+</navigation>
